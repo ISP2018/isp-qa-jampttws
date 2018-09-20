@@ -1,13 +1,13 @@
-#### Q1: What is the command for create and switch to a new branch in Git?
->A. git branch [branch name]
+#### Q1: What is the command for record the current state of the working directory and make your repository clean?
+>A. git fetch
 
->B. git branch -d [branch name]
+>B. git apply
 
-> + C.  git checkout -b [branch name]
+> + C.  git stash
 
->D.  git checkout [branch name]
+>D.  git worktree
 
-A1: C. git checkout -b [branch name]
+A1: C. git stash
 
 #### Q2: What are the 4 values of Agile?
 
